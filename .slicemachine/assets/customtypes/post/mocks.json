@@ -1,0 +1,30 @@
+{
+  "id": "a65040bc-f812-4549-8d6b-ab222ed2cb35",
+  "uid": "a-architecto-officia",
+  "type": "post",
+  "data": {
+    "title": "architect killer e-services",
+    "content": [
+      {
+        "type": "heading1",
+        "text": "Seize end-to-end convergence",
+        "spans": []
+      },
+      {
+        "type": "image",
+        "dimensions": {
+          "width": 900,
+          "height": 500
+        },
+        "alt": "Placeholder image",
+        "copyright": null,
+        "url": "https://images.unsplash.com/photo-1544731612-de7f96afe55f?w=900&h=500&fit=crop"
+      },
+      {
+        "type": "paragraph",
+        "text": "Ad cillum eiusmod aliqua eiusmod sunt consequat magna Lorem reprehenderit eiusmod exercitation mollit cupidatat. Do eu est minim ad id fugiat proident elit pariatur id veniam aliqua incididunt. Anim sit id consectetur minim sit esse occaecat sint sunt duis minim et ut consectetur sint.",
+        "spans": []
+      }
+    ]
+  }
+}

@@ -19,6 +19,7 @@
     "@stripe/stripe-js": "^1.29.0",
     "@types/prismic-dom": "^2.1.1",
     "axios": "^0.27.2",
+    "eslint-plugin-import-helpers": "^1.2.1",
     "faunadb": "^4.5.4",
     "next": "12.1.6",
     "next-auth": "^4.3.4",
@@ -32,6 +33,7 @@
   "devDependencies": {
     "@types/node": "^17.0.31",
     "@types/react": "^18.0.9",
+    "@typescript-eslint/parser": "^5.23.0",
     "eslint": "8.15.0",
     "eslint-config-next": "12.1.6",
     "slice-machine-ui": "^0.3.7",

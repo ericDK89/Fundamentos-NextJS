@@ -7,6 +7,14 @@
           "blocks": 1
         }
       }
+    },
+    "post": {
+      "content": {
+        "config": {
+          "patternType": "STORY",
+          "blocks": 1
+        }
+      }
     }
   }
 }

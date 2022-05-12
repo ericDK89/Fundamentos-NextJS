@@ -1,5 +1,5 @@
+import { query as q } from 'faunadb';
 import { fauna } from "../../../services/fauna";
-import { query as q } from 'faunadb'
 import { stripe } from "../../../services/stripe";
 
 export async function saveSubscription(
@@ -14,6 +14,7 @@ export async function saveSubscription(
       q.Get(
         q.Match(
           q.Index('user_by_stripe_customer_id'), customerId
+
         )
       )
     )

@@ -14,9 +14,9 @@ export function SignInButton() {
         signOut();
       }}
     >
-      <FaGithub color="#04d361" />
-      {/* <img src={session.user.image} alt="Profile Image" /> */}
-      Eric Macedo
+      {/* <FaGithub color="#04d361" /> */}
+      <img src={session.user.image} alt="Profile Image" />
+      {session.user.name}
       <FiX color="#737380" className={styles.closeIcon} />
     </button>
   ) : (
